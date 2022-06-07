@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzyisgreat&label=Profile%20views&color=0e75b6&style=flat" alt="ozzyisgreat" /> </p>
 
-- 🌱 I’m currently learning **go**
+- 🌱 I’m currently learning **golang**
 
 - 📫 How to reach me **Email me at lynx@crime.su or @isLynxEqualsTrue on Telegram**
 
