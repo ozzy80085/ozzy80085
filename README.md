@@ -2,7 +2,6 @@
 <h3 align="center">a 14 year old programmer and technology enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzyisgreat&label=Profile%20views&color=0e75b6&style=flat" alt="ozzyisgreat" /> </p>
-<iframe src="https://thelynx.cc/oct.php"></iframe>
 
 - 🌱 I’m currently learning **Golang**
 
